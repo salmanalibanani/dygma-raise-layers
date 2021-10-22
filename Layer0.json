@@ -315,8 +315,9 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 43,
-      "label": "TAB"
+      "keyCode": 17452,
+      "label": "2",
+      "extraLabel": "SHIFTTO"
     },
     {
       "keyCode": 17451,
@@ -348,9 +349,10 @@
       "verbose": "AltGr"
     },
     {
-      "keyCode": 17452,
-      "label": "2",
-      "extraLabel": "SHIFTTO"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
       "keyCode": 17152,
@@ -427,7 +429,7 @@
     8,
     8,
     8,
-    8,
+    13,
     8,
     8,
     8,
